@@ -1,1 +1,1 @@
-[<img src="https://preview.redd.it/i-made-the-crystals-in-the-cave-map-illuminate-because-i-v0-5ehlgjn0trr81.jpg?width=1080&crop=smart&auto=webp&s=00aa94492d9ed228cf31c808f271a61e2fac73a5" width=500000000 height=50000000000>]
+
