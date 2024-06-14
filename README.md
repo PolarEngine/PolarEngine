@@ -1,1 +1,1 @@
-<script>console.log("fort")</script>
+ [<script>console.log("fort")</script>]
