@@ -1,1 +1,1 @@
- [<img src="">]
+[background-color: blue;]
