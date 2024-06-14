@@ -1,1 +1,1 @@
-[<h1>fortnite</h1>]
+<script>console.log("fort")</script>
